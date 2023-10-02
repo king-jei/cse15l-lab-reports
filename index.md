@@ -4,6 +4,8 @@
 
 [(Go to this same page)](https://king-jei.github.io/cse15l-lab-reports/)
 
+`Run Hello World!`
+
 ## Sample Code
 ```
 cd lecture1
