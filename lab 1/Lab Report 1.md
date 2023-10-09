@@ -1,4 +1,6 @@
-<div style="background-color:goldenrod">
+<!DOCTYPE html>
+<html>
+<body style="background-color:goldenrod;">
 # JC's Lab Report 1
 
 ## "cd" command
@@ -51,4 +53,5 @@
     - working directory: ```/home/lecture1```
     - it printed the contents of the file correctly.
     - no error.
-</div>
+</body>
+</html>
