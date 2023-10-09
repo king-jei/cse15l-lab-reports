@@ -1,3 +1,4 @@
+<span style="background-color:goldenrod">
 # JC's Lab Report 1
 
 ## "cd" command
@@ -16,6 +17,7 @@
     - working directory: ```/home/lecture1```
     - since a file is not a directory, the terminal returned an error message stating so, and no changes were made to the working directory.
     - error, due to incorrect input type.
+      
 ## "ls" command
 * ls with no arguments
 * ![ls1](ls 001.png)
@@ -49,3 +51,4 @@
     - working directory: ```/home/lecture1```
     - it printed the contents of the file correctly.
     - no error.
+</span>
